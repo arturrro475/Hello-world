@@ -1,2 +1,4 @@
 # Hello-world
-just another repository
+just another repo
+
+Dodany tekst w dniu 2018.05.23
