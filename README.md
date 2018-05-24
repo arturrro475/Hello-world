@@ -1,6 +1,12 @@
-# Hello-world
-just another repo
+ //program Hello world
+ 
+ #include <iostream>
+  using namespace std;
+  
+  int main()
+  {
+  cout<<"Hello world"<<endl;
+  return 0;
+  }
 
-Dodany tekst w dniu 2018.05.23
 
-Zmiana wersji do testu
