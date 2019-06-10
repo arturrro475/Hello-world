@@ -1,2 +1,13 @@
 Plik edytowałem bezpośrednio na stronie GITHUB
 komentarz z vps
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+cout<<"Hello world";
+return 0;
+}
+
